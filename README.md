@@ -1,1 +1,35 @@
-<li><a href="https://getbootstrap.com" rel="nofollow"><img src="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a></li>
+### Hi there 👋 , I am Saeed Raeisi!
+
+![Github Follow](https://img.shields.io/github/followers/mobiniqow?style=social)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobiniqow) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobiniqow@gmail.com)
+
+
+<img src="https://skillicons.dev/icons?i=django" alt="Django Logo" width="50" height="50"/> <img src="https://skillicons.dev/icons?i=python" alt="Python Logo" width="50" height="50"/> <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png"/> 
+ <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
+ <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
+ <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
+
+
+---
+
+## &#x1f4c8; My GitHub Stats
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=saeed-raeisi&show_icons=true&theme=radical"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-raeisi&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
+   </table>
+</p>
+
+---
+
+## I’m currently ...
+
+- 🔭 I’m currently working on [odoo](https://github.com/odoo/odoo)
+- 🌱 I’m currently learning DevOps
